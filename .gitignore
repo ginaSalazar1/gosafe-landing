@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# Archivos de trabajo (no van al repo de la landing)
+make_deck*.py
+*.pptx
+serve.py
+GoSafe_landing.zip
+
+# Duplicados de imágenes originales
+images/*.jpeg
